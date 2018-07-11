@@ -8,4 +8,4 @@ compile('com.google.apis:google-api-services-analyticsreporting:v4-rev124-1.23.0
 
 2. Replace XXX in the test.java  with your own things
 
-3. run main function in test.java
+3. Run main function in test.java
